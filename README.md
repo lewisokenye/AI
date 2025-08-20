@@ -1,5 +1,5 @@
- Responsible AI Detective Blog
- Case #1: The Hiring Bot That Hates Career Gaps
+  ## Responsible AI Detective Blog
+## Case #1: The Hiring Bot That Hates Career Gaps
 
  What is happening:
 A company uses AI to screen job applications. The system automatically lowers scores for candidates with “career gaps.”
